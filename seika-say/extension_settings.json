@@ -1,0 +1,11 @@
+{
+  "srtc-ip": "127.0.0.1",
+  "extention-ip": "127.0.0.1",
+
+
+  "seika-url": "http://localhost:7180",
+  "seika-user": "SeikaServerUser",
+  "seika-pass": "SeikaServerPassword",
+
+  "srtc-port": 9002
+}
